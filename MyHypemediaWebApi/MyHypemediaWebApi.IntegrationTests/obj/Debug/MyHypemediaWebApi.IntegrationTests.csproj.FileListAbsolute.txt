@@ -1,0 +1,344 @@
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\AutoMapper.Net4.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Web.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Web.Debug.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Web.Release.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\config\Logging.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\config\log4net.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.IntegrationTests.dll.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.IntegrationTests.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.IntegrationTests.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\AutoMapper.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Common.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Server.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Windsor.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FakeItEasy.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FSharp.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.AccessTokenFormatting.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.ZeroMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.ZeroMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Foundation.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Foundation.Logging.Log4Net.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Foundation.WebApi.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.Common.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.Logging.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.CorsHelpers.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.DI.AspNet.Windsor.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.HttpCache.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.Services.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Hypermedia.Mapping.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Hypermedia.Serialization.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Log4Mongo.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\log4net.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Log4Netly.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Bson.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Driver.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.ApiServices.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.WebApi.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\NetMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Ploeh.AutoFixture.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\protobuf-net.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Linq.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.OData.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\xunit.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Documentation.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.HelpGen.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Razor.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.ApiServices.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Model.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Model.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.WebApi.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\AutoMapper.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Common.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Server.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Windsor.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FakeItEasy.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FSharp.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.CorsHelpers.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.Model.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\log4net.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Bson.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Driver.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Ploeh.AutoFixture.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\protobuf-net.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\protobuf-net.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Linq.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.OData.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\xunit.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Documentation.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Razor.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.csproj.App.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\AutoMapper.Net4.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Web.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Web.Debug.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Web.Release.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\config\Logging.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\config\log4net.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.IntegrationTests.dll.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.IntegrationTests.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.IntegrationTests.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\AutoMapper.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Common.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Server.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Windsor.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FakeItEasy.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FSharp.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.AccessTokenFormatting.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.ZeroMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.ZeroMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Foundation.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Foundation.Logging.Log4Net.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Foundation.WebApi.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.Common.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.Logging.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.CorsHelpers.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.DI.AspNet.Windsor.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.HttpCache.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.Services.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Hypermedia.Mapping.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Hypermedia.Serialization.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Log4Mongo.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\log4net.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Log4Netly.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Bson.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Driver.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.ApiServices.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.WebApi.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\NetMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Ploeh.AutoFixture.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\protobuf-net.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Linq.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.OData.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\xunit.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Documentation.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.HelpGen.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Razor.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.ApiServices.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Model.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Model.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.WebApi.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\AutoMapper.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Common.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Server.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Windsor.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FakeItEasy.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FSharp.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.CorsHelpers.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.Model.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\log4net.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Bson.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Driver.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Ploeh.AutoFixture.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\protobuf-net.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\protobuf-net.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Linq.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.OData.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\xunit.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Documentation.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Razor.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.csproj.App.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQOfficeBeerInventory.mdf
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQOfficeBeerInventory_log.ldf
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\EntityFramework.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\EntityFramework.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\AutoMapper.Net4.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQOfficeBeerInventory.mdf
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQOfficeBeerInventory_log.ldf
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Web.config
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Web.Debug.config
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Web.Release.config
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\config\Logging.config
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\config\log4net.config
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.IntegrationTests.dll.config
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.IntegrationTests.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.IntegrationTests.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\AutoMapper.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Common.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Server.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Core.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Windsor.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FakeItEasy.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.Core.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FSharp.Core.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.AccessTokenFormatting.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.ZeroMQ.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Auth.OAuth2.ZeroMQ.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Foundation.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Foundation.Logging.Log4Net.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Foundation.WebApi.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.Common.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.Logging.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.CorsHelpers.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.DI.AspNet.Windsor.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.HttpCache.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.Model.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.Services.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Hypermedia.Mapping.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Hypermedia.Serialization.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Log4Mongo.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\log4net.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Log4Netly.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Bson.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Driver.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.ApiServices.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Model.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.WebApi.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\NetMQ.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Ploeh.AutoFixture.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\protobuf-net.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Extensions.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Primitives.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Core.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Interfaces.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Linq.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.OData.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\xunit.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\EntityFramework.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Documentation.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.HelpGen.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Mvc.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Razor.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.ApiServices.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Model.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Model.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.WebApi.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\AutoMapper.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Common.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\CacheCow.Server.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Core.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Castle.Windsor.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FakeItEasy.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.Core.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FluentAssertions.Core.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\FSharp.Core.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.CorsHelpers.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\IQ.Platform.Framework.WebApi.Model.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\log4net.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Bson.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MongoDB.Driver.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\Ploeh.AutoFixture.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\protobuf-net.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\protobuf-net.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Extensions.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Net.Http.Primitives.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Core.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Interfaces.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.Linq.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.OData.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\xunit.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\EntityFramework.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\MyHypemediaWebApi.Documentation.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Mvc.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.Razor.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.csproj.App.config
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.csprojResolveAssemblyReference.cache
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.IntegrationTests\obj\Debug\MyHypemediaWebApi.IntegrationTests.pdb

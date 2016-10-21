@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyHypemediaWebApi.Model</name>
+    </assembly>
+    <members>
+        <member name="T:MyHypemediaWebApi.Model.GlassOfBeer">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:MyHypemediaWebApi.Model.GlassOfBeer.#ctor(System.String)">
+            <summary>
+            Constructor for ReplaceKeg
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:MyHypemediaWebApi.Model.GlassOfBeer.PourOneGlass">
+            <summary>
+            Used to update the content of the Keg
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:MyHypemediaWebApi.Model.BeerKegState">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:MyHypemediaWebApi.Model.BeerKegState.New">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:MyHypemediaWebApi.Model.BeerKegState.GoingDown">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:MyHypemediaWebApi.Model.BeerKegState.AlmostEmpty">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:MyHypemediaWebApi.Model.BeerKegState.HeIsDryMate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MyHypemediaWebApi.Model.IStatefulBeerKeg">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MyHypemediaWebApi.Model.IStatefulBeerKeg.BeerKegState">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MyHypemediaWebApi.Model.BeerTap">
+            <summary>
+            This class contains all information of an Office's current beer content.
+            </summary>
+        </member>
+        <member name="P:MyHypemediaWebApi.Model.BeerTap.Id">
+            <summary>
+            Unique Identifier for the Office
+            </summary>
+        </member>
+        <member name="P:MyHypemediaWebApi.Model.BeerTap.Name">
+            <summary>
+            Name for the Office
+            </summary>
+        </member>
+        <member name="P:MyHypemediaWebApi.Model.BeerTap.BeerKegState">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:MyHypemediaWebApi.Model.BeerTap.BeerKegCurrentContent">
+            <summary>
+            Current beer content  (ml)
+            </summary>
+        </member>
+        <member name="P:MyHypemediaWebApi.Model.BeerTap.ReplaceKeg">
+            <summary>
+            Indicator if it's advisable that the Keg should be immediately replaced
+            </summary>
+        </member>
+        <member name="M:MyHypemediaWebApi.Model.BeerTap.UpdateBeerKegState">
+            <summary>
+            Used to provide the status of the remaining Beer content of an office
+            </summary>
+        </member>
+        <member name="T:MyHypemediaWebApi.Model.LinkRelations">
+            <summary>
+            iQmetrix link relation names
+            </summary>
+        </member>
+        <member name="F:MyHypemediaWebApi.Model.LinkRelations.Office">
+            <summary>
+            link relation to describe the Identity resource.
+            </summary>
+        </member>
+        <member name="F:MyHypemediaWebApi.Model.LinkRelations.BeerTap">
+            <summary>
+            link relation to describe the Identity resource.
+            </summary>
+        </member>
+        <member name="F:MyHypemediaWebApi.Model.LinkRelations.ReplaceKeg">
+            <summary>
+            Link to describe multiple places
+            </summary>
+        </member>
+        <member name="F:MyHypemediaWebApi.Model.LinkRelations.GlassOfBeer">
+            <summary>
+            Link to describe multiple places
+            </summary>
+        </member>
+        <member name="M:MyHypemediaWebApi.Model.IOffice.GetAll">
+            <summary>
+             Returns the list of all Offices with the corresponding status of the beer Keg
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MyHypemediaWebApi.Model.IOffice.GetInfo(System.Nullable{System.Int32})">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:MyHypemediaWebApi.Model.Office">
+            <summary>
+            A Sample Resource, used as a placeholder. To be removed after real-world API resources have been added.
+            </summary>
+        </member>
+        <member name="M:MyHypemediaWebApi.Model.Office.GetAll">
+            <summary>
+            Returns the list of all Offices with the corresponding status of the beer Keg
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MyHypemediaWebApi.Model.Office.GetInfo(System.Nullable{System.Int32})">
+            <summary>
+            Used to pull all the information of an Office.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:MyHypemediaWebApi.Model.ReplaceKeg">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:MyHypemediaWebApi.Model.ReplaceKeg.#ctor(System.String)">
+            <summary>
+            Constructor for ReplaceKeg
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:MyHypemediaWebApi.Model.ReplaceKeg.ReplaceBeerKeg">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>

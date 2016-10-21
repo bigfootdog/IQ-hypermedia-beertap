@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="IQOfficeBeerInventoryModelStoreContainer" CdmEntityContainer="IQOfficeBeerInventoryEntities">
+    <EntitySetMapping Name="OfficeBeerInventories">
+      <EntityTypeMapping TypeName="IQOfficeBeerInventoryModel.OfficeBeerInventory">
+        <MappingFragment StoreEntitySet="OfficeBeerInventory">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="OfficeLocation" ColumnName="OfficeLocation" />
+          <ScalarProperty Name="BeerKegCurrentContent" ColumnName="BeerKegCurrentContent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

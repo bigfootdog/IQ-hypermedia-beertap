@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Cache-Control" content="no-store" />
+    <title></title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.12.4.min.js"></script>
+    
+    <script>
+        var urlApi = "http://localhost:61284/";
+
+        function loadOffices() {
+            $("#officeList").find("tr:gt(0)").remove();
+          //   $("#officeList").remove();
+            $.get({
+                url: urlApi + "Offices",
+                cache: false
+            }).then(function (data) {
+                var x = data._embedded.self;
+
+                $.each(x,
+                    function (key, value) {
+
+                        var item = "<td>" + value.Id + "</td>";
+                        item += "<td>" + value.Name + "</td>";
+                        item += "<td><label id=\"content-" + value.Id + "\">" + value.BeerKegCurrentContent + "</label></td>";
+                        item += "<td><label id=\"status-" + value.Id + "\">" + value.BeerKegState + "</label></td>";
+                        item += "<td><a href=\"#\" id=\"linkgetOneGlass-" + value.Id + "\" onclick=\"getOneGlass(" + value.Id + ")\" class=\"getOneGlass\">Get One Glass of Beer</a></td>";
+                        item += "<td><a href=\"#\" id=\"linkreplacekeg-" + value.Id + "\" onclick=\"replaceKeg(" + value.Id + ")\"  class=\"replacekeg\">ReplaceKeg</a></td>";
+
+                        $("#officeList").append("<tr>" + item + "</tr>");
+
+                        //Hide when Keg is subject for replacement
+                        if (!value.ReplaceKeg) {
+                            $("#linkreplacekeg-" + value.Id).hide();
+                        }
+
+                        if (value.BeerKegState == "HeIsDryMate") {
+                            $("#linkgetOneGlass-" + value.Id).hide();
+                        }
+
+                    });
+            });
+
+       //    var i = setTimeout(loadOffices(), 5000);
+        }
+
+
+        function getOneGlass(id) {
+            updateKeg(id, "GetOneGlassOfBeer");
+        }
+
+        function replaceKeg(id) {
+            updateKeg(id, "ReplaceKeg");
+            $("#linkreplacekeg-" + id).hide();
+            $("#linkgetOneGlass-" + id).show();
+        }
+
+        function updateKeg(id,  option) {
+            var url = urlApi + option + "(" + id + ")"; 
+ 
+            $.post(url, function (data, status) {
+
+                $("#content-" + id).html(data.BeerKegCurrentContent);
+                $("#status-" + id).html(data.BeerKegState);
+
+                if (data.ReplaceKeg) {
+                    $("#linkreplacekeg-" + id).show();
+                }
+
+                if (data.BeerKegState == "HeIsDryMate") {
+                    $("#linkgetOneGlass-" + id).hide();
+                }
+
+            });
+        }
+
+        $(document).ready(function () {
+            loadOffices();
+            
+        });
+
+     //   var i = setInterval("loadOffices()", 3000);
+    </script>
+
+    <style>
+        body {
+            font-family: 'Arial';
+        }
+
+         table {
+             border-collapse: collapse;
+         }
+
+        table, th, td {
+            border: 1px solid black;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h2>What's on tap</h2>
+    <table id="officeList">
+        <tr>
+            <th>Office Id</th>
+            <th>Office Location</th>
+            <th>Beer Keg Content (ml)</th>
+            <th>Status</th>
+            <th colspan="2">Command(s)</th>
+        </tr>
+    </table>
+
+</body>
+</html>

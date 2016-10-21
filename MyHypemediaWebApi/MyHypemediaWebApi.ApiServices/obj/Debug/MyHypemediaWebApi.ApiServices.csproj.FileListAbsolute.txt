@@ -1,0 +1,278 @@
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\AutoMapper.Net4.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.ApiServices.dll.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.ApiServices.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.ApiServices.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\AutoMapper.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Windsor.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.AccessTokenFormatting.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.ZeroMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.ZeroMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Foundation.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Foundation.WebApi.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.Common.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.Services.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Hypermedia.Mapping.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Hypermedia.Serialization.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\NetMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\protobuf-net.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Linq.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Spatial.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.OData.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.Model.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.Model.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\AutoMapper.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Windsor.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.Model.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\protobuf-net.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\protobuf-net.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Linq.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Spatial.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.OData.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.csproj.App.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.csprojResolveAssemblyReference.cache
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.csproj.App.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.csprojResolveAssemblyReference.cache
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\AutoMapper.Net4.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.ApiServices.dll.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.ApiServices.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.ApiServices.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\AutoMapper.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Windsor.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.AccessTokenFormatting.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.ZeroMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.ZeroMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Foundation.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Foundation.WebApi.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.Common.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.Services.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Hypermedia.Mapping.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Hypermedia.Serialization.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\NetMQ.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\protobuf-net.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Core.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Linq.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Spatial.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.OData.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.Model.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.Model.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\AutoMapper.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Windsor.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.Model.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Newtonsoft.Json.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\protobuf-net.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\protobuf-net.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Core.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Linq.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Spatial.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.OData.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQOfficeBeerInventory.mdf
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQOfficeBeerInventory_log.ldf
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\EntityFramework.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\EntityFramework.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\AutoMapper.Net4.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQOfficeBeerInventory.mdf
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQOfficeBeerInventory_log.ldf
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.ApiServices.dll.config
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.ApiServices.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.ApiServices.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\AutoMapper.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Core.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Windsor.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.AccessTokenFormatting.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.ProtectedResource.ZeroMQ.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Auth.OAuth2.ZeroMQ.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Foundation.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Foundation.WebApi.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.Common.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.Model.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.Services.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Hypermedia.Mapping.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Hypermedia.Serialization.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.Edm.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.OData.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.Model.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\NetMQ.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\protobuf-net.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Extensions.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Formatting.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Primitives.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Core.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Interfaces.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Linq.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Spatial.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.OData.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.WebHost.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\EntityFramework.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.Model.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\MyHypemediaWebApi.Model.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\AutoMapper.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Core.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Castle.Windsor.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\IQ.Platform.Framework.WebApi.Model.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.Edm.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Microsoft.Data.OData.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\protobuf-net.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\protobuf-net.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Extensions.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Formatting.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Net.Http.Primitives.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Core.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Interfaces.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.Linq.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Spatial.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.OData.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\System.Web.Http.WebHost.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\EntityFramework.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\de\System.Spatial.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\es\System.Spatial.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\fr\System.Spatial.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\it\System.Spatial.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ja\System.Spatial.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ko\System.Spatial.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\ru\System.Spatial.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.csproj.App.config
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.csprojResolveAssemblyReference.cache
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.ApiServices\obj\Debug\MyHypemediaWebApi.ApiServices.pdb

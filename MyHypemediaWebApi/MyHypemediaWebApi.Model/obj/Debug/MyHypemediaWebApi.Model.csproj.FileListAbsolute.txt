@@ -1,0 +1,46 @@
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\MyHypemediaWebApi.Model.XML
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\MyHypemediaWebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\MyHypemediaWebApi.Model.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQ.Platform.Framework.Common.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQ.Platform.Framework.WebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQ.Platform.Framework.WebApi.Model.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\obj\Debug\MyHypemediaWebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\MyHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\obj\Debug\MyHypemediaWebApi.Model.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQOfficeBeerInventory.mdf
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQOfficeBeerInventory_log.ldf
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\MyHypemediaWebApi.Model.dll.config
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\MyHypemediaWebApi.Model.XML
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\MyHypemediaWebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\MyHypemediaWebApi.Model.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\EntityFramework.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQ.Platform.Framework.Common.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQ.Platform.Framework.WebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\EntityFramework.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQ.Platform.Framework.WebApi.Model.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\obj\Debug\MyHypemediaWebApi.Model.dll
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\obj\Debug\MyHypemediaWebApi.Model.pdb
+C:\Users\augustus.dagbay\Documents\Visual Studio 2015\Projects\temp\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\obj\Debug\MyHypemediaWebApi.Model.csprojResolveAssemblyReference.cache
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQOfficeBeerInventory.mdf
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQOfficeBeerInventory_log.ldf
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\MyHypemediaWebApi.Model.dll.config
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\MyHypemediaWebApi.Model.XML
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\MyHypemediaWebApi.Model.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\MyHypemediaWebApi.Model.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\EntityFramework.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQ.Platform.Framework.Common.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQ.Platform.Framework.WebApi.Model.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\EntityFramework.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\IQ.Platform.Framework.WebApi.Model.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\obj\Debug\MyHypemediaWebApi.Model.dll
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\obj\Debug\MyHypemediaWebApi.Model.pdb
+C:\Dev\BeerTapHypemediaWebApi\MyHypemediaWebApi\MyHypemediaWebApi.Model\obj\Debug\MyHypemediaWebApi.Model.csprojResolveAssemblyReference.cache
