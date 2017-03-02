@@ -1,9 +1,0 @@
-apple
-<<<<<<< HEAD
-mango
-grapes
-guava
-orange
-=======
-mango
->>>>>>> 99c70d664e9e3d3940abdedc511d6d8fba0728ac
